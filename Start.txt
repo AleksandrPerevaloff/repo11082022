@@ -1,4 +1,5 @@
 DEV2 branch
 This is file from Remote Repo
+This is file from Remote Repote
 Lorem Ipsum is
 Lorem Ipsum has
